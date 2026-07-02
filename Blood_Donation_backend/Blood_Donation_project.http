@@ -1,0 +1,6 @@
+@Blood_Notation_project_HostAddress = http://localhost:5186
+
+GET {{Blood_Notation_project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
